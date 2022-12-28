@@ -1,2 +1,4 @@
-node_modules
-my-onlinestore
+package-lock.json
+node_modules/*
+my-onlinestore/*
+.env
